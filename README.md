@@ -5,7 +5,7 @@
 
 * 看 markdown文档，推荐: https://github.com/uaxe/geektime-docs 🌟🌟🌟
 * 看 pdf文档，推荐: https://github.com/uaxe/geektime-pdfs 🌟🌟🌟
-* 看 音视频，推荐: https://github.com/zkep/mygeektime 🌟🌟🌟🌟🌟
+* 看 音视频，推荐: https://github.com/zkep/my-geektime 🌟🌟🌟🌟🌟
 
 
 下载到本地
