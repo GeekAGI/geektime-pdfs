@@ -10,7 +10,7 @@
 
 下载到本地
 ```shell
-git clone https://github.com/uaxe/geektime-pdfs.git  --depth 1
+git clone --single-branch --branch master --depth 1 https://github.com/uaxe/geektime-pdfs.git
 ```
 
 
